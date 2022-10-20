@@ -22,7 +22,6 @@ A clone of Wordle, it gives players six chances to guess a randomly selected fiv
 
 - [How to make your own wordle app](https://www.techradar.com/how-to/how-to-make-your-own-wordle-app)
 
-## Example projects 
+## Example projects
 
-- Drawing App by Florin Pop
-- Drawing App by t0mm4rx
+- [How to make your own wordle app](https://github.com/johnnysbug/flutterdle)
