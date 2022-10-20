@@ -24,5 +24,4 @@ A clone of Wordle, it gives players six chances to guess a randomly selected fiv
 
 ## Example projects
 
-- Drawing App by Florin Pop
-- Drawing App by t0mm4rx
+- [Wordle App](https://github.com/johnnysbug/flutterdle)
